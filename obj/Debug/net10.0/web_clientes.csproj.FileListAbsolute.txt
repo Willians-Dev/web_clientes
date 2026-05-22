@@ -1,0 +1,197 @@
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\bin\Debug\net10.0\appsettings.Development.json
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\bin\Debug\net10.0\appsettings.json
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\bin\Debug\net10.0\web_clientes.staticwebassets.runtime.json
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\bin\Debug\net10.0\web_clientes.staticwebassets.endpoints.json
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\bin\Debug\net10.0\web_clientes.exe
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\bin\Debug\net10.0\web_clientes.deps.json
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\bin\Debug\net10.0\web_clientes.runtimeconfig.json
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\bin\Debug\net10.0\web_clientes.dll
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\bin\Debug\net10.0\web_clientes.pdb
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\web_clientes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\web_clientes.AssemblyInfoInputs.cache
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\web_clientes.AssemblyInfo.cs
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\web_clientes.csproj.CoreCompileInputs.cache
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\web_clientes.MvcApplicationPartsAssemblyInfo.cache
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\web_clientes.RazorAssemblyInfo.cache
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\web_clientes.RazorAssemblyInfo.cs
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\scopedcss\bundle\web_clientes.styles.css
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\scopedcss\projectbundle\web_clientes.bundle.scp.css
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\6ymvodtwpt-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\ace6h5uans-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\sabfxgvf1k-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\6o094qg5yi-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\4bmx2qdin2-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\kfuwnv5y9y-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\jbg0t0k3z3-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\z9lazn7ei4-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\ufm9b2lbe4-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\0nfv9xpq9p-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\jk58fg72mk-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\vwphjmj2d7-{0}-ub07r2b239-ub07r2b239.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\59zzzn4ztv-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\qnayu9iccy-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\y7ni7dwlya-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\j27u5cqwky-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\kmjtouv1bt-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\0d1k0s05v4-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\bo3jkha98s-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\sud3dytkgm-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\8msoxofxc6-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\0xzeoziohs-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\155kxqnlir-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\63flw48eai-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\whn34wydx7-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\svuf4b7xj6-{0}-06098lyss8-06098lyss8.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\ifz19ns0lt-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\rgpuctbn7h-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\mdtv2mnf5m-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\4zs976bw7g-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\gjtbkowsoi-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\ornr4ju0vg-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\k7k2f1wr8s-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\zpupxoywq5-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\42vw8sa4pd-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\5652mn5c6e-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\gpuq72notv-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\sfjmga348z-{0}-493y06b0oq-493y06b0oq.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\pmtju5912s-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\d1be91ev20-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\ucte73ydkl-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\rlr3vesdb6-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\amrgbovg3c-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\fv27fc25q5-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\xl21r90zum-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\5ea4hqmi4j-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\fotwmy45r0-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\bwq3fxqeub-{0}-47otxtyo56-47otxtyo56.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\vcvlq0jvgp-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\jbo5b715b6-{0}-356vix0kms-356vix0kms.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\ubhxp8f5mf-{0}-83jwlth58m-83jwlth58m.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\5kinymydkr-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\c6vtg4xqfj-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\41xcfuc1pb-{0}-ag7o75518u-ag7o75518u.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\qdysbb4lxj-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\2d0t2ep17k-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\4kj1c1weur-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\dra4l42xfo-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\0hsmi45bhw-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\szggx5l5pi-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\f022jurtyz-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\12mzwpew3u-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\31dns03xlv-{0}-iugwwrdl0r-iugwwrdl0r.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\compressed\l1blveiio4-{0}-iugwwrdl0r-iugwwrdl0r.gz
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\staticwebassets.build.json
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\staticwebassets.development.json
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\swae.build.ex.cache
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\web_clientes.dll
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\refint\web_clientes.dll
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\web_clientes.pdb
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\web_clientes.genruntimeconfig.cache
+D:\Vídeos\UNIANDES\Programacion Web\web_clientes\obj\Debug\net10.0\ref\web_clientes.dll
+D:\GitHub\web_clientes\bin\Debug\net10.0\appsettings.Development.json
+D:\GitHub\web_clientes\bin\Debug\net10.0\appsettings.json
+D:\GitHub\web_clientes\bin\Debug\net10.0\web_clientes.staticwebassets.runtime.json
+D:\GitHub\web_clientes\bin\Debug\net10.0\web_clientes.staticwebassets.endpoints.json
+D:\GitHub\web_clientes\bin\Debug\net10.0\web_clientes.exe
+D:\GitHub\web_clientes\bin\Debug\net10.0\web_clientes.deps.json
+D:\GitHub\web_clientes\bin\Debug\net10.0\web_clientes.runtimeconfig.json
+D:\GitHub\web_clientes\bin\Debug\net10.0\web_clientes.dll
+D:\GitHub\web_clientes\bin\Debug\net10.0\web_clientes.pdb
+D:\GitHub\web_clientes\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\GitHub\web_clientes\obj\Debug\net10.0\web_clientes.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\web_clientes\obj\Debug\net10.0\web_clientes.AssemblyInfoInputs.cache
+D:\GitHub\web_clientes\obj\Debug\net10.0\web_clientes.AssemblyInfo.cs
+D:\GitHub\web_clientes\obj\Debug\net10.0\web_clientes.csproj.CoreCompileInputs.cache
+D:\GitHub\web_clientes\obj\Debug\net10.0\web_clientes.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\web_clientes\obj\Debug\net10.0\web_clientes.RazorAssemblyInfo.cache
+D:\GitHub\web_clientes\obj\Debug\net10.0\web_clientes.RazorAssemblyInfo.cs
+D:\GitHub\web_clientes\obj\Debug\net10.0\web_clientes.sourcelink.json
+D:\GitHub\web_clientes\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\GitHub\web_clientes\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\GitHub\web_clientes\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\GitHub\web_clientes\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\GitHub\web_clientes\obj\Debug\net10.0\scopedcss\bundle\web_clientes.styles.css
+D:\GitHub\web_clientes\obj\Debug\net10.0\scopedcss\projectbundle\web_clientes.bundle.scp.css
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\6ymvodtwpt-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\ace6h5uans-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\sabfxgvf1k-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\6o094qg5yi-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\4bmx2qdin2-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\kfuwnv5y9y-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\jbg0t0k3z3-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\z9lazn7ei4-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\ufm9b2lbe4-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\0nfv9xpq9p-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\jk58fg72mk-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\vwphjmj2d7-{0}-ub07r2b239-ub07r2b239.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\59zzzn4ztv-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\qnayu9iccy-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\y7ni7dwlya-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\j27u5cqwky-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\kmjtouv1bt-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\0d1k0s05v4-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\bo3jkha98s-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\sud3dytkgm-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\8msoxofxc6-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\0xzeoziohs-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\155kxqnlir-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\63flw48eai-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\whn34wydx7-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\svuf4b7xj6-{0}-06098lyss8-06098lyss8.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\ifz19ns0lt-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\rgpuctbn7h-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\mdtv2mnf5m-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\4zs976bw7g-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\gjtbkowsoi-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\ornr4ju0vg-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\k7k2f1wr8s-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\zpupxoywq5-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\42vw8sa4pd-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\5652mn5c6e-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\gpuq72notv-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\sfjmga348z-{0}-493y06b0oq-493y06b0oq.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\pmtju5912s-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\d1be91ev20-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\ucte73ydkl-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\rlr3vesdb6-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\amrgbovg3c-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\fv27fc25q5-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\xl21r90zum-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\5ea4hqmi4j-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\fotwmy45r0-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\bwq3fxqeub-{0}-47otxtyo56-47otxtyo56.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\vcvlq0jvgp-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\jbo5b715b6-{0}-356vix0kms-356vix0kms.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\ubhxp8f5mf-{0}-83jwlth58m-83jwlth58m.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\5kinymydkr-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\c6vtg4xqfj-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\41xcfuc1pb-{0}-ag7o75518u-ag7o75518u.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\qdysbb4lxj-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\2d0t2ep17k-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\4kj1c1weur-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\dra4l42xfo-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\0hsmi45bhw-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\szggx5l5pi-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\f022jurtyz-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\12mzwpew3u-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\31dns03xlv-{0}-iugwwrdl0r-iugwwrdl0r.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\compressed\l1blveiio4-{0}-iugwwrdl0r-iugwwrdl0r.gz
+D:\GitHub\web_clientes\obj\Debug\net10.0\staticwebassets.build.json
+D:\GitHub\web_clientes\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\GitHub\web_clientes\obj\Debug\net10.0\staticwebassets.development.json
+D:\GitHub\web_clientes\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\GitHub\web_clientes\obj\Debug\net10.0\swae.build.ex.cache
+D:\GitHub\web_clientes\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\GitHub\web_clientes\obj\Debug\net10.0\web_clientes.dll
+D:\GitHub\web_clientes\obj\Debug\net10.0\refint\web_clientes.dll
+D:\GitHub\web_clientes\obj\Debug\net10.0\web_clientes.pdb
+D:\GitHub\web_clientes\obj\Debug\net10.0\web_clientes.genruntimeconfig.cache
+D:\GitHub\web_clientes\obj\Debug\net10.0\ref\web_clientes.dll
